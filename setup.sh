@@ -7,7 +7,7 @@ sudo \
     apt-get install     \
         pngquant        \
         graphicsmagick  \
-        python-gdal     \
+#        python-gdal     \
         unzip           \
         imagemagick     \
         cpanminus       \
